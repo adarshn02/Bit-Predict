@@ -2,6 +2,21 @@
 
 Welcome to the Time Series Forecasting repository, a comprehensive guide and implementation of various techniques to predict the historical price of Bitcoin. Whether you're a data scientist, machine learning enthusiast, or a cryptocurrency enthusiast, this repository aims to provide insights and hands-on experience in building robust time series forecasting models.
 
+## Prerequisites
+
+Before running the notebooks, ensure you have the following installed:
+
+- Python (3.x recommended)
+- TensorFlow (2.x recommended)
+- Jupyter Notebook
+
+You can install TensorFlow and Jupyter Notebook using pip:
+
+```bash
+pip install tensorflow
+pip install jupyter
+```
+
 ## Key Features:
  ### 1. Data Acquisition and Preprocessing
   Retrieve historical Bitcoin price data
